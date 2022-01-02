@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-30T10:10:21 IST" name="Suite" finished-at="2021-12-30T10:10:59 IST" duration-ms="37872">
+    <groups>
+    </groups>
+    <test started-at="2021-12-30T10:10:21 IST" name="Test" finished-at="2021-12-30T10:10:59 IST" duration-ms="37872">
+      <class name="TestNG.Maven_TestNG_QuickStart.AppTest">
+        <test-method signature="testEasy()[pri:0, instance:TestNG.Maven_TestNG_QuickStart.AppTest@2053d869]" started-at="2021-12-30T10:10:21 IST" name="testEasy" finished-at="2021-12-30T10:10:54 IST" duration-ms="33007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+      </class> <!-- TestNG.Maven_TestNG_QuickStart.AppTest -->
+      <class name="goDaddy.MenuLinks">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:goDaddy.MenuLinks@1e683a3e]" started-at="2021-12-30T10:10:21 IST" name="beforeTest" finished-at="2021-12-30T10:10:39 IST" duration-ms="18189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyTitle()[pri:1, instance:goDaddy.MenuLinks@1e683a3e]" started-at="2021-12-30T10:10:39 IST" name="verifyTitle" finished-at="2021-12-30T10:10:57 IST" duration-ms="18161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:goDaddy.MenuLinks@1e683a3e]" started-at="2021-12-30T10:10:57 IST" name="afterTest" finished-at="2021-12-30T10:10:59 IST" duration-ms="1451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- goDaddy.MenuLinks -->
+      <class name="goDaddy.MenuLinks2">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:goDaddy.MenuLinks2@3059cbc]" started-at="2021-12-30T10:10:21 IST" name="beforeTest" finished-at="2021-12-30T10:10:39 IST" duration-ms="18317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyTitle()[pri:1, instance:goDaddy.MenuLinks2@3059cbc]" started-at="2021-12-30T10:10:39 IST" name="verifyTitle" finished-at="2021-12-30T10:10:57 IST" duration-ms="17577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:goDaddy.MenuLinks2@3059cbc]" started-at="2021-12-30T10:10:57 IST" name="afterTest" finished-at="2021-12-30T10:10:58 IST" duration-ms="1665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- goDaddy.MenuLinks2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
